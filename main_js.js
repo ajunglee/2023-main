@@ -107,6 +107,9 @@ $(document).ready(function(){
             display:"none"
         });
     });
+    $(".close").on("click", function(){
+	   $("iframe")[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
+    });
 
     $(function() { // 보이기 | 숨기기
 	$(window).scroll(function() {
@@ -121,6 +124,10 @@ $(document).ready(function(){
   	 }, 400); // 속도 400
   	 return false;
     });
+    
 });
-
+    $('.menu-trigger').click(function(){
+          $(this).toggleClass('active');
+            $('.m_menu').slideToggle(400);
+        });
 });
