@@ -127,15 +127,15 @@ section>#web_cont>.web_slide>.pol_slide{width:355px;height: 419px;background: ur
 section>#web_cont>.web_slide>.pol_slide>.pol_slide_frame{background-color: #D68582;width: 272px;height: 277px;transform: rotate(356deg);margin: 37px 39px;overflow: hidden;}
 section>#web_cont>.web_slide>.pol_slide>.pol_slide_frame>li{width: 275px;height: 279px;position: absolute;}
 section>#web_cont>.web_slide>.pol_slide>.pol_slide_frame>li:nth-child(1){background: url(../img/illust/sec3_slide1.jpg) no-repeat;background-size: cover;}
-section>#web_cont>.web_slide>.pol_slide>.pol_slide_frame>li:nth-child(2){background: url(../img/photo/slide_photo2.jpg) no-repeat;background-size: cover;}
-section>#web_cont>.web_slide>.pol_slide>.pol_slide_frame>li:nth-child(3){background: url(../img/photo/slide_photo3.jpg) no-repeat;background-size: cover;}
+section>#web_cont>.web_slide>.pol_slide>.pol_slide_frame>li:nth-child(2){background: url(../img/illust/sec3_slide2.jpg) no-repeat;background-size: cover;}
+section>#web_cont>.web_slide>.pol_slide>.pol_slide_frame>li:nth-child(3){background: url(../img/illust/his_web_9.jpg) no-repeat;background-size: cover;}
 
 section>#web_cont>.web_slide>.mini_slide{width:305px;height: 347px;background: url(../img/photo/sec3_polaroid_small.png) no-repeat;background-size: cover;position: absolute;transform: translate(-50%, -50%);top: 65%;left: 40%; }
 section>#web_cont>.web_slide>.mini_slide>.mini_slide_frame{width: 200px;height: 205px;background-color: #F3F4EA; transform: rotate(15deg);margin: 47px 58px;overflow: hidden;}
 section>#web_cont>.web_slide>.mini_slide>.mini_slide_frame>li{width: 200px;height: 205px;position: absolute;}
 section>#web_cont>.web_slide>.mini_slide>.mini_slide_frame>li:nth-child(1){background: url(../img/illust/sec3_slide1_mini.jpg) no-repeat;background-size: cover;background-position: center center;}
-section>#web_cont>.web_slide>.mini_slide>.mini_slide_frame>li:nth-child(2){background: url(../img/photo/slide_photo2.jpg) no-repeat;background-size: cover;}
-section>#web_cont>.web_slide>.mini_slide>.mini_slide_frame>li:nth-child(3){background: url(../img/photo/slide_photo3.jpg) no-repeat;background-size: cover;}
+section>#web_cont>.web_slide>.mini_slide>.mini_slide_frame>li:nth-child(2){background: url(../img/illust/sec3_slide2_mini.jpg) no-repeat;background-size: cover;}
+section>#web_cont>.web_slide>.mini_slide>.mini_slide_frame>li:nth-child(3){background: url(../img/illust/sec3_slide3_mini.jpg) no-repeat;background-size: cover;}
 
 section>#web_cont>.web_slide>.memo{width: 301px;height: 280px;background: url(../img/photo/sec3_memo.png) no-repeat;position: absolute;right: -5%;bottom: -5%;transform: translate(-50%, -50%);background-size: cover;padding: 60px 30px;box-sizing: border-box;font-family:'Cafe24Oneprettynight';font-size: 20px;}
 section>#web_cont>.web_slide>.memo>.memo_txt{width: 220px;height: 130px;transform: rotate(5deg);overflow: scroll;scrollbar-width: none;/* 파이어폭스 */}
